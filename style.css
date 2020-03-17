@@ -139,6 +139,10 @@ body {
     color: var(--greyColor);
 }
 
+.match-item .match-item__icon:hover{
+    color: blueviolet;
+}
+
 .fakeBackground{
     position: fixed;
     height: 100vh;
